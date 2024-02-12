@@ -4,6 +4,7 @@ ADDED from D:\Myproject\Research\myform\app\src\main\AndroidManifest.xml:2:1-26:
 INJECTED from D:\Myproject\Research\myform\app\src\main\AndroidManifest.xml:2:1-26:12
 INJECTED from D:\Myproject\Research\myform\app\src\main\AndroidManifest.xml:2:1-26:12
 INJECTED from D:\Myproject\Research\myform\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.databinding:viewbinding:8.2.2] C:\Users\passawee.w\.gradle\caches\transforms-3\d64262d30dfd028fefb0db007e75e64f\transformed\viewbinding-8.2.2\AndroidManifest.xml:2:1-7:12
 MERGED from [:calculation] D:\Myproject\Research\myform\calculation\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\passawee.w\.gradle\caches\transforms-3\56af212e940d1f2bde023f0cf7bfa9c5\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\passawee.w\.gradle\caches\transforms-3\a1c5e08825da8b3508fd7a457a086ebc\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
@@ -117,6 +118,8 @@ uses-sdk
 INJECTED from D:\Myproject\Research\myform\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Myproject\Research\myform\app\src\main\AndroidManifest.xml
 INJECTED from D:\Myproject\Research\myform\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.2.2] C:\Users\passawee.w\.gradle\caches\transforms-3\d64262d30dfd028fefb0db007e75e64f\transformed\viewbinding-8.2.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.2.2] C:\Users\passawee.w\.gradle\caches\transforms-3\d64262d30dfd028fefb0db007e75e64f\transformed\viewbinding-8.2.2\AndroidManifest.xml:5:5-44
 MERGED from [:calculation] D:\Myproject\Research\myform\calculation\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:calculation] D:\Myproject\Research\myform\calculation\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\passawee.w\.gradle\caches\transforms-3\56af212e940d1f2bde023f0cf7bfa9c5\transformed\material-1.11.0\AndroidManifest.xml:20:5-44

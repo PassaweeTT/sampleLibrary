@@ -4,9 +4,6 @@ plugins {
     id("maven-publish")
 }
 
-group = "coding-with-me"
-version = "1.0.0"
-
 android {
     namespace = "com.example.calculation"
     compileSdk = 34
@@ -36,6 +33,7 @@ android {
     }
 }
 
+
 dependencies {
 
     implementation("androidx.core:core-ktx:1.12.0")
@@ -45,3 +43,4 @@ dependencies {
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
 }
+
