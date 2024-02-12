@@ -60,7 +60,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.example.calculation"
                 artifactId = "calculation"
-                version = "1.0.4"
+                version = "1.0"
             }
         }
     }
